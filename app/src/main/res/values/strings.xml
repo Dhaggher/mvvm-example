@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example mvvm</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+
+    <string name="action_login">Login</string>
+
+    <string name="message_success_login">Successful login</string>
+    <string name="message_fail_login">Email or Password not valid</string>
+</resources>
